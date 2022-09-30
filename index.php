@@ -23,7 +23,7 @@ $html = MarkdownExtra::defaultTransform($text);
         <article><?php echo $html; ?></article>
         <footer>
           <hr/>
-          <p>&copy; <span id="year"></span> One Page. All Rights Reserved.</p>
+          <p>&copy; <span id="year"></span> One-page website. All Rights Reserved.</p>
         </footer>
     </body>
 </html>
