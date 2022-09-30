@@ -1,6 +1,6 @@
 # mdonepage
 
-Markdown based One-page website.
+Markdown (and PHP) based One-page website.
 
 ## Installation
 
